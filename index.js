@@ -38,7 +38,6 @@ const hxterm_config = {
   fontSize: 16,
   foregroundColor: light_white,
   backgroundColor: deep_black,
-  borderColor: light_black,
   cursorColor: light_white,
   colors: [
     deep_black,
