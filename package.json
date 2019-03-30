@@ -1,0 +1,19 @@
+{
+    "name": "hxterm",
+    "version": "1.0.0",
+    "description": "XTerm for your Hyper.",
+    "contributors": [
+      {
+        "name": "dehahost",
+        "email": "dehahost@gmail.com",
+        "url": "https://github.com/dehahost"
+      }
+    ],
+    "license": "MIT",
+    "repository": "https://github.com/dehahost/hxterm",
+    "files": ["index.js"],
+    "keywords": [
+      "hyper",
+      "xterm"
+    ]
+  }
