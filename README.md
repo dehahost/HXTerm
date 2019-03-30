@@ -18,7 +18,7 @@ It will look like this:
 localPlugins: ["hyper-xterm"],
 /* ... */
 ```
-Save it and exit the editor. Then close and open your Hyper and you are ready baby. :*
+Save it and exit the editor. Then close and open your Hyper and you are ready, baby. :*
 
 ## Author
 dehahost. Just me.
