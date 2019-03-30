@@ -8,11 +8,11 @@
  *
 */
 /*
- *  Theme made with love to xterm and hyper by dehahost.
+ *  Theme made with love to XTerm and hyper by dehahost.
  *
  */
 
-// == xterm colors ==
+// == XTerm colors ==
 // -- Deep colors
 const deep_black = "#000000"
 const deep_red = "#CD0000";
