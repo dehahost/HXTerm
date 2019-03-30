@@ -2,6 +2,7 @@
   "name": "hyper-xterm",
   "version": "1.0.2",
   "description": "XTerm for your Hyper.",
+  "repository": "github:dehahost/hyper-xterm",
   "keywords": ["hyper", "hyper-theme", "xterm", "hxterm"],
   "type": "theme",
   "preview": "https://https://raw.githubusercontent.com/dehahost/hyper-xterm/master/screenshot.png",
