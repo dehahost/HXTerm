@@ -1,5 +1,5 @@
 # hyper-xterm
-hyper-xterm brings XTerm color palette to your Hyper.
+hyper-xterm (formly _hxterm_) brings XTerm color palette to your Hyper.
 
 ## screenshot:
 null
