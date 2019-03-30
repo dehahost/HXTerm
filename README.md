@@ -2,7 +2,7 @@
 hyper-xterm (formly _hxterm_) brings XTerm color palette to your Hyper.
 
 ## screenshot:
-null
+![screenshot](https://github.com/dehahost/hyper-xterm/screenshot.png "screenshot")
 
 ## installation and possible usage:
 ### for shell interfaces (bash, usually):
