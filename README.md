@@ -6,7 +6,8 @@ hyper-xterm (formly _hxterm_) brings XTerm color palette to your Hyper.
 
 ## installation and possible usage:
 ### for shell interfaces (bash, usually):
-`cd` into `~/.hyper_plugins/local/` and `git https://github.com/dehahost/hyper-xterm`.
+Make sure you have `git` package installed on your system. If not, do it. Then:
+`cd` into `~/.hyper_plugins/local/` and `git clone https://github.com/dehahost/hyper-xterm`.
 ### for graphical interfaces (Windows, usually):
 Download this repo in ZIP by clicking green button with "Clone or download" text. Inside shown dropdown hit "Download ZIP".
 Extract downloaded ZIP into `%userprofile%\.hyper_plugins\local\`.
