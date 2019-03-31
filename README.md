@@ -5,7 +5,7 @@ hxterm package brings XTerm color palette right into your Hyper.
 ![screenshot](https://raw.githubusercontent.com/dehahost/hxterm/master/screenshot.png "screenshot")
 
 ## simple installation sensation:
-Make sure, you disabled your previous theme. If you are using default, that's perfect.
+Make sure you have disabled your previous theme. If you are using default, that's perfect.
 Open your Hyper and type in `hyper i hxterm`, push _[ Enter ]_ and there you go. :*
 
 ## hardcore installation sensation:

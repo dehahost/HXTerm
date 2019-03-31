@@ -9,7 +9,7 @@
 */
 /*
  *  Theme made with love to XTerm and hyper by dehahost.
- *
+ *  1.0.5-update2019.3.31
  */
 
 // == XTerm colors ==
