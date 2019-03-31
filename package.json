@@ -1,11 +1,34 @@
 {
-  "name": "hyper-xterm",
-  "version": "1.0.2",
-  "description": "XTerm for your Hyper.",
-  "keywords": ["hyper", "hyper-theme", "xterm", "hxterm"],
-  "repository": "github:dehahost/hyper-xterm",
+  "name": "hxterm",
+  "version": "1.0.3",
+  "description": "XTerm color palette for your Hyper.",
+  "author": "dehahost",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "xterm",
+    "hxterm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dehahost/hxterm.git"
+  },
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dehahost/hxterm/issues"
+  },
+  "homepage": "https://github.com/dehahost/hxterm#readme",
+  "main": "index.js",
   "type": "theme",
-  "preview": "https://https://raw.githubusercontent.com/dehahost/hyper-xterm/master/screenshot.png",
-  "colors": ["#000000", "#CD0000", "#FF0000", "#00CD00", "#00FF00", "#0000EE", "#5C5CFF", "#FFFFFF"]
+  "preview": "https://https://raw.githubusercontent.com/dehahost/hxterm/master/screenshot.png",
+  "colors": [
+    "#000000",
+    "#CD0000",
+    "#FF0000",
+    "#00CD00",
+    "#00FF00",
+    "#0000EE",
+    "#5C5CFF",
+    "#FFFFFF"
+  ]
 }
