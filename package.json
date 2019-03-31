@@ -1,6 +1,6 @@
 {
   "name": "hxterm",
-  "version": "1.0.4",
+  "version": "1.0.4.1",
   "description": "XTerm color palette for your Hyper.",
   "author": "dehahost",
   "keywords": [
@@ -20,7 +20,7 @@
   "homepage": "https://github.com/dehahost/hxterm#readme",
   "main": "index.js",
   "type": "theme",
-  "preview": "https://https://raw.githubusercontent.com/dehahost/hxterm/master/screenshot.png",
+  "preview": "https://raw.githubusercontent.com/dehahost/hxterm/master/screenshot.png",
   "colors": [
     "#000000",
     "#CD0000",
